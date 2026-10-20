@@ -1,6 +1,6 @@
 # Especificação — aws-account-baseline
 
-**Semana:** 31/10 a 06/11/2026
+**Semana:** 04/11 a 10/11/2026
 **Entrega final:** relatório de baseline + evidências
 
 ## Contexto
@@ -32,10 +32,10 @@ Subir serviços pagos; criar recursos que fogem do plano gratuito.
 
 | Dia | Fase | Entrega do dia |
 |---|---|---|
-| Sáb 31/10 | Orçamento e proteção da raiz (dia leve) | Alerta ativo, root com MFA |
-| Dom 01/11 | Usuário admin e política de senha (dia leve) | Admin individual com MFA |
-| Seg 02/11 | CloudTrail e bucket de logs | Trilha multi-região gravando |
-| Ter 03/11 | Block Public Access e Access Analyzer | Os dois ligados |
-| Qua 04/11 | Recolher evidências | Prints organizados em `evidencias/` |
-| Qui 05/11 | Comparação com o CIS | Relatório item a item em rascunho |
-| Sex 06/11 | Fechamento | Relatório final e README |
+| Qua 04/11 | Orçamento e proteção da raiz | Alerta ativo, root com MFA |
+| Qui 05/11 | Usuário admin e política de senha | Admin individual com MFA |
+| Sex 06/11 | CloudTrail e bucket de logs | Trilha multi-região gravando |
+| Sáb 07/11 | Block Public Access e Access Analyzer (dia leve) | Os dois ligados |
+| Dom 08/11 | Recolher evidências (dia leve) | Prints organizados em `evidencias/` |
+| Seg 09/11 | Comparação com o CIS | Relatório item a item em rascunho |
+| Ter 10/11 | Fechamento | Relatório final e README |
